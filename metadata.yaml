@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7633
     wikipedia: http://en.wikipedia.org/wiki/Francesco_Domenico_Guerrazzi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46100#Vita-di-Andrea-Doria-Volume-I
 gutenberg_bookshelf: IT Biografie
 gutenberg_issued: '2014-06-26'
 gutenberg_type: Text
